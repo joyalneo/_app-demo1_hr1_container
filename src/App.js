@@ -14,7 +14,7 @@ const App = () => {
     setSystem({
       module: './layout',
       scope: 'layout',
-      url: `${env.BLOX_ENV_URL_layout}/remoteEntry.js`,
+      url: `${env.BLOX_ENV_URL_hr1_layout}/remoteEntry.js`,
     });
   };
 
