@@ -1,12 +1,1 @@
-{
-  "name": "container",
-  "type": "ui-container",
-  "source": {
-    "https": "https://github.com/joyalneo/_ha_container",
-    "ssh": "git@github.com:joyalneo/_ha_container.git"
-  },
-  "language": "nodejs",
-  "start": "npx webpack-dev-server",
-  "build": "npm run build",
-  "postPull": "npm i"
-}
+{"name":"hr1_container","type":"ui-container","source":{"https":"https://github.com/joyalneo/_app-demo1_hr1_container","ssh":"git@github.com:joyalneo/_app-demo1_hr1_container.git"},"language":"nodejs","start":"npx webpack-dev-server","build":"npm run build","postPull":"npm i"}
